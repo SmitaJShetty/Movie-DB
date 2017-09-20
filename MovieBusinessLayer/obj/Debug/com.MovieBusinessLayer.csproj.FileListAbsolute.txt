@@ -1,0 +1,16 @@
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\MovieBusinessLayer.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\MovieBusinessLayer.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\obj\Debug\com.MovieBusinessLayer.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\obj\Debug\MovieBusinessLayer.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\Entity.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\MovieRepository.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.DataLayer.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\MoviesLibrary.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.Cache.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\Entity.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\MovieRepository.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.DataLayer.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.Cache.pdb
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.CustomExceptions.dll
+C:\D Drive\Test Projects\MovieService\MovieBusinessLayer\bin\Debug\com.CustomExceptions.pdb

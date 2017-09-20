@@ -1,0 +1,4 @@
+C:\D Drive\Test Projects\MovieService\com.CustomExceptions\bin\Debug\com.CustomExceptions.dll
+C:\D Drive\Test Projects\MovieService\com.CustomExceptions\bin\Debug\com.CustomExceptions.pdb
+C:\D Drive\Test Projects\MovieService\com.CustomExceptions\obj\Debug\com.CustomExceptions.dll
+C:\D Drive\Test Projects\MovieService\com.CustomExceptions\obj\Debug\com.CustomExceptions.pdb

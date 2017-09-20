@@ -1,0 +1,5 @@
+C:\D Drive\Test Projects\MovieService\com.MovieRepository.Tests\bin\Debug\com.MovieRepository.Tests.dll
+C:\D Drive\Test Projects\MovieService\com.MovieRepository.Tests\bin\Debug\com.MovieRepository.Tests.pdb
+C:\D Drive\Test Projects\MovieService\com.MovieRepository.Tests\obj\Debug\com.MovieRepository.Tests.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\MovieService\com.MovieRepository.Tests\obj\Debug\com.MovieRepository.Tests.dll
+C:\D Drive\Test Projects\MovieService\com.MovieRepository.Tests\obj\Debug\com.MovieRepository.Tests.pdb

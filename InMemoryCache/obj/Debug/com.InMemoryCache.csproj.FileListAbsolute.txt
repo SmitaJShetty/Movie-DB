@@ -1,0 +1,12 @@
+C:\D Drive\Test Projects\MovieService\InMemoryCache\obj\Debug\com.InMemoryCache.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\InMemoryCache.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\InMemoryCache.pdb
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\com.Cache.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\com.CustomExceptions.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\Entity.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\System.Linq.Dynamic.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\com.Cache.pdb
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\com.CustomExceptions.pdb
+C:\D Drive\Test Projects\MovieService\InMemoryCache\bin\Debug\Entity.pdb
+C:\D Drive\Test Projects\MovieService\InMemoryCache\obj\Debug\InMemoryCache.dll
+C:\D Drive\Test Projects\MovieService\InMemoryCache\obj\Debug\InMemoryCache.pdb

@@ -1,0 +1,12 @@
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.DataLayer.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.DataLayer.pdb
+C:\D Drive\Test Projects\MovieService\com.DataLayer\obj\Debug\com.Store.csprojResolveAssemblyReference.cache
+C:\D Drive\Test Projects\MovieService\com.DataLayer\obj\Debug\com.DataLayer.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\obj\Debug\com.DataLayer.pdb
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.Cache.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\Entity.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\MoviesLibrary.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.Cache.pdb
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\Entity.pdb
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.CustomExceptions.dll
+C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.CustomExceptions.pdb

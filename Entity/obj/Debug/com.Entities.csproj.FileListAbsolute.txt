@@ -1,0 +1,5 @@
+C:\D Drive\Test Projects\MovieService\Entity\bin\Debug\Entity.dll
+C:\D Drive\Test Projects\MovieService\Entity\bin\Debug\Entity.pdb
+C:\D Drive\Test Projects\MovieService\Entity\obj\Debug\Entity.dll
+C:\D Drive\Test Projects\MovieService\Entity\obj\Debug\Entity.pdb
+C:\D Drive\Test Projects\MovieService\Entity\obj\Debug\com.Entities.csprojResolveAssemblyReference.cache
