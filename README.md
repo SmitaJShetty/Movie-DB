@@ -1,5 +1,9 @@
 ### Movie-DB
-A c# based movie repository
+*A c# based movie repository
+
+#### Movie Service
+
+#### Overview
 
 Service is built on webapi 2. This program uses in memory cache using concurrentlist. A better alternative would be using Redis. Application has been structured in a way that that can be switched for the existing cache by changing bindings on the service.  Redis’s requirement for reverse index key and paucity of time on my side, made this alternative, not a feasible option for this project for me. 
 
