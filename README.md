@@ -1,7 +1,5 @@
-### Movie-DB
-* A c# based movie repository
-
-#### Movie Service
+## Movie Service
+### A C# based movie repository 
 
 #### Overview
 
