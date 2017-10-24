@@ -23,11 +23,10 @@ namespace com.InMemoryCache
     public class InMemoryCache : ICache
     {
         private static ConcurrentDictionary<int?,Movie> MovieTable = null;
-        
+
         static InMemoryCache()
         {
-            MovieTable = new ConcurrentDictionary<int?,Movie>();
-           
+            MovieTable = new ConcurrentDictionary<int?, Movie>();
         }
 
         public void Create(Movie Movie)

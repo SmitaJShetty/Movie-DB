@@ -43,6 +43,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\com.Cache\com.Cache.csproj">
+      <Project>{e69d96d4-c7cd-4416-bc39-b9c3142ad666}</Project>
+      <Name>com.Cache</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Entity\com.Entities.csproj">
       <Project>{d542e391-9ee9-4cbf-b99c-5e20b27df09c}</Project>
       <Name>com.Entities</Name>

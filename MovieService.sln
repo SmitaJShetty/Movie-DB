@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieService", "MovieService\MovieService.csproj", "{9C0849E0-4A93-4BA5-837E-9B2FEA7532D8}"
 EndProject
@@ -29,6 +29,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.InMemoryCache.Tests", "com.InMemoryCache.Tests\com.InMemoryCache.Tests.csproj", "{E2F0FE0C-B649-4C50-8060-E19A81BB604A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.MovieBusinessLayer.Tests", "com.MovieBusinessLayer.Tests\com.MovieBusinessLayer.Tests.csproj", "{AC93C1FA-3769-4FDC-942D-2F761BD43D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.MongoCache", "com.MongoCache\com.MongoCache.csproj", "{B4C1FDE1-28EA-463B-83FA-6CB8CF49DBDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -80,6 +82,10 @@ Global
 		{AC93C1FA-3769-4FDC-942D-2F761BD43D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC93C1FA-3769-4FDC-942D-2F761BD43D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC93C1FA-3769-4FDC-942D-2F761BD43D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C1FDE1-28EA-463B-83FA-6CB8CF49DBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C1FDE1-28EA-463B-83FA-6CB8CF49DBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C1FDE1-28EA-463B-83FA-6CB8CF49DBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C1FDE1-28EA-463B-83FA-6CB8CF49DBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
