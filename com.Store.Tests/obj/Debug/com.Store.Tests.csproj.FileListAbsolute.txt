@@ -16,3 +16,4 @@ C:\D Drive\Test Projects\MovieService\com.Store.Tests\bin\Debug\Castle.Core.dll
 C:\D Drive\Test Projects\MovieService\com.Store.Tests\bin\Debug\Moq.dll
 C:\D Drive\Test Projects\MovieService\com.Store.Tests\bin\Debug\Castle.Core.xml
 C:\D Drive\Test Projects\MovieService\com.Store.Tests\bin\Debug\Moq.xml
+C:\Smita Programs\Mongotest\Movie-DB\com.Store.Tests\obj\Debug\com.Store.Tests.csprojResolveAssemblyReference.cache

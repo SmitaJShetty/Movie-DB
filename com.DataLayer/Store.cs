@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MoviesLibrary;
+﻿using System.Collections.Generic;
 using com.Entities;
-using System.Collections.ObjectModel;
 using com.Cache;
 
 namespace com.Store
@@ -20,7 +14,7 @@ namespace com.Store
         {
             cache = Cache;
             entityMapper = new EntityMapper();
-            movieDataSource = new MovieDataSource();
+            movieDataSource = new ();
             ReplenishCacheFromSource();
             
         }
@@ -94,8 +88,11 @@ namespace com.Store
         {
             try
             {
-                MovieData movieData = entityMapper.ConvertSingleLocalEntityToSource(Movie);
-                movieData.MovieId = Id;
+                // MovieData movieData = entityMapper.ConvertSingleLocalEntityToSource(Movie);
+                Movie movieData = new Movie()
+                {
+                    MovieId = Id
+                };
                 movieDataSource.Update(movieData);
             }
             catch   
@@ -106,9 +103,9 @@ namespace com.Store
 
         public void ReplenishCacheFromSource()
         {
-            List<MovieData> movieData= movieDataSource.GetAllData();
-            List<Movie> movies = entityMapper.ConvertToLocalEntities(movieData);
-            cache.ReplenishCacheFromSource(movies);
+            List<Movie> movieData= movieDataSource.GetAllData();
+            //List<Movie> movies = entityMapper.ConvertToLocalEntities(movieData);
+            cache.ReplenishCacheFromSource(movieData);
         }
 
         public void InvalidateCache()

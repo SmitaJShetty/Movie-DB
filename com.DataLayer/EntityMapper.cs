@@ -5,18 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections.ObjectModel;
 using com.Entities;
-using MoviesLibrary;
 using com.CustomExceptions;
 
 namespace com.Store
 {
     public class EntityMapper
     {
-        public List<Movie> ConvertToLocalEntities(IEnumerable<MovieData> MovieData)
+        public List<Movie> ConvertToLocalEntities(IEnumerable<Movie> MovieData)
         {
             List<Movie> movies = new List<Movie>();
 
-            foreach (MovieData md in MovieData)
+            foreach (Movie md in MovieData)
             {
                 movies.Add(ConvertSingleSourceEntityToLocal(md));
             }
@@ -24,7 +23,7 @@ namespace com.Store
             return movies;
         }
 
-        public Movie ConvertSingleSourceEntityToLocal(MovieData MovieData)
+        public Movie ConvertSingleSourceEntityToLocal(Movie MovieData)
         {
             Movie movie = null;
 
@@ -49,9 +48,9 @@ namespace com.Store
             return movie;
         }
 
-        public List<MovieData> ConvertToSourceEntities(IEnumerable<Movie> Movies)
+        public List<Movie> ConvertToSourceEntities(IEnumerable<Movie> Movies)
         {
-            List<MovieData> movieData = new List<MovieData>();
+            List<Movie> movieData = new List<Movie>();
 
             foreach (Movie m in Movies)
             {
@@ -61,11 +60,11 @@ namespace com.Store
             return movieData;
         }
 
-        public MovieData ConvertSingleLocalEntityToSource(Movie Movie)
+        public Movie ConvertSingleLocalEntityToSource(Movie Movie)
         {
-            MovieData movieData = null;
+            Movie movieData = null;
 
-            movieData = new MovieData()
+            movieData = new Movie()
             {
                 Cast = Movie.Cast.ToArray(),
                 Classification = Movie.Classification,

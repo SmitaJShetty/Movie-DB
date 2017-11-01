@@ -1,0 +1,1 @@
+C:\Smita Programs\Mongotest\Movie-DB\com.MongoCache\obj\Debug\com.MongoCache.csprojResolveAssemblyReference.cache

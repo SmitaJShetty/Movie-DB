@@ -13,42 +13,46 @@ namespace com.MongoCache
     public class MongoCache:ICache
     {
         private MongoConnector _mongoConnector;
-       
+        private string _moviedbName;
+        private string _movieCollectionName;
+
         public MongoCache()
         {
             _mongoConnector = new MongoConnector();
-           // _mongoConnector.MongoClient();
+            _moviedbName = "movie-db";
+            _movieCollectionName = "movies";            
         }
 
         public void Create(Movie movie)
         {
-            throw new NotImplementedException();
+            _mongoConnector.AddDocument(_moviedbName, _movieCollectionName, movie);
         }
 
         public void Update(int Id, Movie movie)
         {
-            throw new NotImplementedException();
+            _mongoConnector.UpdateMovieAsync(_moviedbName, _movieCollectionName, Id, movie);
         }
 
         public List<Movie> GetAllMovies()
         {
-            throw new NotImplementedException();
+          return  _mongoConnector.GetAllDocuments(_moviedbName, _movieCollectionName).Result;
         }
 
         public Movie GetMovieById(int MovieId)
         {
-
-            throw new NotImplementedException();
+            var collection = _mongoConnector.GetCollection(_moviedbName, _movieCollectionName);            
+            return _mongoConnector.GetDocumentByMovieId(collection,MovieId);
         }
 
         public List<Movie> GetSortedByColumn(string SortQuery)
         {
             throw new NotImplementedException();
         }
-
-
+        
         public List<Movie> SearchMovies(SearchObject SO)
-        { throw new NotImplementedException(); }
+        {
+            _mongoConnector.SearchMovies(_moviedbName,_movieCollectionName);
+        }
 
         public void Invalidate()
         { throw new NotImplementedException(); }

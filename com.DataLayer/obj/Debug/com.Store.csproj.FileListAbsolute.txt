@@ -10,3 +10,4 @@ C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.Cache.pdb
 C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\Entity.pdb
 C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.CustomExceptions.dll
 C:\D Drive\Test Projects\MovieService\com.DataLayer\bin\Debug\com.CustomExceptions.pdb
+C:\Smita Programs\Mongotest\Movie-DB\com.DataLayer\obj\Debug\com.Store.csprojResolveAssemblyReference.cache

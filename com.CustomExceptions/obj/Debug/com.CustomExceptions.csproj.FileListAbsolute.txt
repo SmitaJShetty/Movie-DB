@@ -2,3 +2,8 @@ C:\D Drive\Test Projects\MovieService\com.CustomExceptions\bin\Debug\com.CustomE
 C:\D Drive\Test Projects\MovieService\com.CustomExceptions\bin\Debug\com.CustomExceptions.pdb
 C:\D Drive\Test Projects\MovieService\com.CustomExceptions\obj\Debug\com.CustomExceptions.dll
 C:\D Drive\Test Projects\MovieService\com.CustomExceptions\obj\Debug\com.CustomExceptions.pdb
+C:\Smita Programs\Mongotest\Movie-DB\com.CustomExceptions\bin\Debug\com.CustomExceptions.dll
+C:\Smita Programs\Mongotest\Movie-DB\com.CustomExceptions\bin\Debug\com.CustomExceptions.pdb
+C:\Smita Programs\Mongotest\Movie-DB\com.CustomExceptions\obj\Debug\com.CustomExceptions.csprojResolveAssemblyReference.cache
+C:\Smita Programs\Mongotest\Movie-DB\com.CustomExceptions\obj\Debug\com.CustomExceptions.dll
+C:\Smita Programs\Mongotest\Movie-DB\com.CustomExceptions\obj\Debug\com.CustomExceptions.pdb
